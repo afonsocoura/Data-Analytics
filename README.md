@@ -1,0 +1,1 @@
+No arquivo parte 1 contem uma base de dados de com as avaliações de alguns clientes sobre determinados produtos e temos como desafio criar um ranking com os produtos mais bem avaliados que tiveram pelo menos 500 avaliações.
